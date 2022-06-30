@@ -173,29 +173,30 @@ footer {
         }
 
         main>img {
-            border-radius: 17px 0 0 17px;
-            width: 320px;
+            border-radius: 12px 0 0 14px;
+
+            width: 280px;
         }
         article {
             margin: 0 30px 10px;
         }
 
         .subtitle {
-            margin: 30px 0 0;
+            margin: 17px 0;
         }
 
-        h1 {
-            margin: 14px 0;
+        h1{
+            margin: 24px 0;
         }
+
 
         .prices {
-            margin: 28px 0;
+            margin: 22px 0;
         }
 
         button {
-            margin-bottom: 5px;
+            margin-bottom: 10px;
         }
-
 
     }
 
